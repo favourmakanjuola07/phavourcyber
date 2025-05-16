@@ -4,9 +4,28 @@
 </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+- **Configuring Wireless Router and Client (AlgoExpert)**<br/>
+  [View project on GitHub](https://github.com/favourmakanjuola07/packet-tracer-configure-a-wireless-router-and-clients)
 
 
-<h2>Certifications</h2>
+
+
+
+
+<h2>Certifications:</h2>
+- **Cyber Threat Management**<br/>
+  [View Certificate on GitHub](https://github.com/favourmakanjuola07/favour-certificates/blob/main/CyberThreatManagementUpdate20250516-26-vmxohq.pdf)
+
+
+- **Introduction To Cybersecurity**  
+  [View Certificate on GitHub](https://github.com/favourmakanjuola07/favour-certificates/blob/main/Introduction_to_Cybersecurity_certificate_makanjuolafavouroladimeji01-gmail-com_daa70048-22a6-48e1-b51f-b3145186026c.pdf)
+
+- **Endpoint Security**  
+  [View Certificate on GitHub](https://github.com/favourmakanjuola07/favour-certificates/blob/main/Endpoint_Security_certificate_makanjuolafavouroladimeji01-gmail-com_fad7eac0-5f7a-45be-b864-477f60b8b0cc.pdf)
+
+- **Network Defense**  
+  [View Certificate on GitHub](https://github.com/favourmakanjuola07/favour-certificates/blob/main/Network_Defense_certificate_makanjuolafavouroladimeji01-gmail-com_ebf73563-867f-41e9-ab13-fe3bf2cfea1c.pdf)
+
 
 
 <h2> 🤳 Connect with me:</h2>
